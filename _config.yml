@@ -28,6 +28,7 @@ url: "https://noerkaerhald.com" # the base hostname & protocol for your site, e.
 twitter_username: jekyllrb
 github_username:  eatsam
 
+google_analytics: G-C5WVKXQ471
 # Build settings
 theme: minima
 plugins:
