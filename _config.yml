@@ -25,14 +25,22 @@ description: >- # this means to ignore newlines until "baseurl:"
   dedicated to leather and ceramics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noerkaerhald.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  eatsam
+facebook_username: noerkaerhald
+instagram_username: noerkaerhald
 
 google_analytics: G-C5WVKXQ471
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: solarized
+  
+show_excerpts: true
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
