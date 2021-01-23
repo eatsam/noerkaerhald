@@ -30,16 +30,13 @@ instagram_username: noerkaerhald
 
 google_analytics: G-C5WVKXQ471
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  skin: solarized
-  
-show_excerpts: true
-
+collections:
+ - products
 
 
 # Exclude from processing.
