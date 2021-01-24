@@ -21,8 +21,7 @@
 title: Nørkær Hald
 email: info@noerkaerhald.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the future website of a family hobby website
-  dedicated to leather and ceramics.
+  Leather and ceramics products handmade in Denmark.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noerkaerhald.com" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: noerkaerhald
