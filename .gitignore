@@ -1,14 +1,11 @@
-<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-=======
 .vercel
 node_modules/
 
 .env
 
 .DS_Store
->>>>>>> paymentrequest-custom-gateway
